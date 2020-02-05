@@ -12,11 +12,11 @@ Here are some of the files described deeply.
 
 => functions.php - This file is changed for many reasons described below.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=> for adding custom sidebar.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=> for adding custom sidebar.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=> for adding custom widget.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=> for adding custom widget.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=> for displaying post views.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=> for displaying post views.
       
 => content.php - This file is changed for displaying content properly.
 
@@ -25,6 +25,10 @@ Here are some of the files described deeply.
 => style.css - This file is changed for designing purpose.
 
 And some more files changed for achieving proper output like page.php, header.php, sidebar.php, etc.
+
+Snaps of the Website :
+------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
