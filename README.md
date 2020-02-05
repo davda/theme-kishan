@@ -28,6 +28,7 @@ And some more files changed for achieving proper output like page.php, header.ph
 
 Snaps of the Website :
 ------------------------------------------------------------------------------------------------------------------------------
+![screenshot-two wordpress test-2020 02 04-01_26_11](https://user-images.githubusercontent.com/25464596/73875223-eeede700-487a-11ea-9c6f-59ca309ab044.png)
 
 
 
