@@ -6,6 +6,7 @@ This WordPress Theme is Created for rtCamp Theme Assignment for selection of Wor
 The Base theme is _score.
 Here are some of the files described deeply.
 => better-comments.php - In this file, the template of comments has been changed. One more thing, the comment form was not changed from       here.
+
 => template-tags.php - This file is changed for displaying dates and tags of the posts.
 => functions.php - This file is changed for many reasons described below.
       > for adding custom sidebar.
